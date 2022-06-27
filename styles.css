@@ -1,0 +1,14 @@
+.App {
+  font-family: Georgia;
+  text-align: center;
+}
+input {
+  padding: 1rem;
+  background-color: rgb(233, 235, 232);
+  width: 80%;
+}
+body {
+  background-color: rgb(243, 234, 103);
+  height: 100%;
+  width: auto;
+}
